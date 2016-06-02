@@ -1,0 +1,13 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-pugme",
+  "hubot-thecat",
+  "hubot-corgi",
+  "hubot-cron",
+  "hubot-rules",
+  "hubot-shipit",
+  "hubot-reload-scripts",
+  "hubot-xkcd",
+  "superagent"
+]
